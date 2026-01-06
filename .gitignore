@@ -1,0 +1,45 @@
+# ===============================
+# Unreal Engine
+# ===============================
+
+# Build results
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider / IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Unreal auto-generated files
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.db
+
+# Crash reports
+crashinfo--*
+
+# Pak files (generated)
+*.pak
+
+# Backup files
+*.backup
+*.old
